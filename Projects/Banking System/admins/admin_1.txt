@@ -1,0 +1,5 @@
+Admin Details for Username: 1
+Name: 1
+Address: 1
+Email: 1
+Phone: 1

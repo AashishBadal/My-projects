@@ -1,0 +1,40 @@
+.navbar{
+    top: 0;
+    height: 72px;
+    width: 100%;
+    padding: 0 16px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    z-index: 2020;
+    transform: translateY(0);
+    transition: transform .3s ease;
+    background-color: white;
+}
+
+
+#logo{
+    margin-top: 0px;
+    margin-left: 90px;
+    height: 50px;
+    width: 200px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
+}
+li a{
+    color:black;
+    font-size: 18px;
+    font-weight: 500;
+    margin-right: 30px;
+    text-decoration: none;
+}
+
+li a:hover{
+    color: red;
+    font-size: 125%;
+}

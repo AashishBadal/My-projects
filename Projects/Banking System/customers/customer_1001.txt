@@ -1,0 +1,7 @@
+Customer Details for Account Number: 1001
+Name: 1
+Address: 1
+Email: 1
+Phone: 1
+Account Type: savings
+Balance: RM0

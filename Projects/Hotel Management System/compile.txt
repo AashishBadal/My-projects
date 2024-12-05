@@ -1,0 +1,2 @@
+gcc -o hotel_management main.c admin.c staff.c customer.c guest.c utility.c
+./hotel_management

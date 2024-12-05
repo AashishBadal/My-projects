@@ -1,0 +1,9 @@
+Username       Password        Role        Full Name           Address                       Citizenship Number
+---------------------------------------------------------------------------------------------------------------
+admin          admin123        admin       Admin User          Admin Office                 12345
+staff1         staff123        staff       Staff Member 1      123 Main St, City            S12345
+customer1      cust123         customer    John Doe            456 Maple Ave, Town          C67890
+customer2      cust456         customer    Jane Smith          789 Elm St, Village          C12345
+       
+hooo            raaaa           staff      aashish badal        gggg                           8888           
+

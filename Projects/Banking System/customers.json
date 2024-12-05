@@ -1,0 +1,1 @@
+[{"name": "1", "address": "1", "email": "1", "phone": "1", "account_number": 1001, "password": "123", "account_type": "savings", "balance": 100.0, "transactions": [{"type": "Deposit", "amount": 2000.0, "date": "2024-06-11 22:44:53"}, {"type": "Withdrawal", "amount": 1900.0, "date": "2024-06-11 22:44:58"}]}]

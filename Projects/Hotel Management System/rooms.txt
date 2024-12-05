@@ -1,0 +1,9 @@
+Room Number  Room Type    Price Per Night
+-----------------------------------------
+101          Single       100
+102          Double       150
+201          Suite        250
+301          Deluxe       400
+
+1            aas             700          
+700          single          900            

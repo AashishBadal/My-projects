@@ -1,0 +1,11 @@
+Customer Name  Room Number  Status     Booking Date
+-------------------------------------------------
+John Doe       101          Checked-in 2024-11-01 | Checked-out | Checked-out
+Jane Smith     102          Pending    2024-11-02 | Checked-in | Checked-out | Checked-in | Checked-in | Checked-out | Checked-in | Checked-out
+Alice Johnson  201          Checked-out 2024-11-03
+
+aashish         201          checked-in   2000-09-09     
+aashish         102          checkedin    2000-12-9      
+sandesh         300          checked      in             
+pal             233          pending      2000-03-02     
+aashish         201          pending      2000-09-01     
